@@ -1,0 +1,125 @@
+canonical_identifier: bkk:krp/KR6c0042/v1
+canonical_location: https://kanripo.org/bkk/KR6c0042/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 金剛經纂要刊定記
+  identifiers:
+    alt_id:
+    - T33n1702
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T33/T33n1702.xml
+    old_id: T33n1702
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0042_000.yaml, hash: 'sha256:8d6d22d65de31018738cccf70d1f6ca65d1775339a5e5fca3cf16f059dcbb395'}
+  - {seq: 1, filename: KR6c0042_001.yaml, hash: 'sha256:8b250ac1066f48612eb1c8eb1c73e7105d1077bb4013cf13bf099aef771cfaef'}
+  - {seq: 2, filename: KR6c0042_002.yaml, hash: 'sha256:82dbfd179c90020c358bc3b070a45c6c8c17e53e481413f4179fc5bd2569f3f6'}
+  - {seq: 3, filename: KR6c0042_003.yaml, hash: 'sha256:9115e6a0f2c11b6a75e71af18f039353adc9547a4c5bab99ee478e8fc829758c'}
+  - {seq: 4, filename: KR6c0042_004.yaml, hash: 'sha256:904cf479c1cce1def4eaea08612df38af6c56c117c9c9a4133d283301ffde4e8'}
+  - {seq: 5, filename: KR6c0042_005.yaml, hash: 'sha256:4f4486c497a1ddd79479d10fb9ae9329aad377d08bb859582a985870985527d7'}
+  - {seq: 6, filename: KR6c0042_006.yaml, hash: 'sha256:0a2cbe3db7dab68c626cb49a1f7c9f4a5c89d31edc671128cced831bd7c854de'}
+  - {seq: 7, filename: KR6c0042_007.yaml, hash: 'sha256:3e5870c8b35da8ca2e5035b87a3e93bf1dd8a6bb80d6e1f6effab975eb369781'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0042_000.markers.yaml, hash: 'sha256:dd485e5211aa1a7d6b8a756f17e028f77ac79cf314a4c85f193b289c656e4d61'}
+  - {seq: 1, role: markers, filename: assets/KR6c0042_001.markers.yaml, hash: 'sha256:bc01f3697ac8014980da582a724163da83630c6d6ef9ff27db8489bf5b91050c'}
+  - {seq: 2, role: markers, filename: assets/KR6c0042_002.markers.yaml, hash: 'sha256:26a875e4bcb235c966af64e550be3b5c92b926636c9f5c2fb0f8bf3cc9752d7f'}
+  - {seq: 3, role: markers, filename: assets/KR6c0042_003.markers.yaml, hash: 'sha256:4843e60e8297144d737a3e2d4d310c284545ec23a609a28e50c841869b5186ae'}
+  - {seq: 4, role: markers, filename: assets/KR6c0042_004.markers.yaml, hash: 'sha256:ba461ef2ebf13b7eb334df684a41be11e42f29d8897784a8ec44b0e06cd3a525'}
+  - {seq: 5, role: markers, filename: assets/KR6c0042_005.markers.yaml, hash: 'sha256:d4522b576b599f36fb862c2367b42915ab86ae1bce54a39058e8de905d89bf73'}
+  - {seq: 6, role: markers, filename: assets/KR6c0042_006.markers.yaml, hash: 'sha256:5f1b2972410c3f9c05e74a4fffa0be1d7f3d7a239508a354cd31c4a0d77a8e58'}
+  - {seq: 7, role: markers, filename: assets/KR6c0042_007.markers.yaml, hash: 'sha256:d274dff49b6edeb872c492275a255c901020621bc0bac661ffacbfb32d610ed4'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6c0042_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 金剛經纂要刊定記并序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0042_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 13510
+  label: 金剛經纂要刊定記卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6c0042_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 14489
+  label: 金剛經纂要刊定記卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0042_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 13241
+  label: 金剛經纂要刊定記卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0042_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 14483
+  label: 金剛經纂要刊定記卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6c0042_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 14849
+  label: 金剛經纂要刊定記卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6c0042_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 6418
+  label: 金剛經纂要刊定記卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6c0042_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 7863
+  label: 金剛經纂要刊定記卷第七
+  type: juan
+  level: 1
+hash: sha256:c492a4be3a5af78aa58670dcedc27bff65e546179cae6ddabc8dfeee61a53d18
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

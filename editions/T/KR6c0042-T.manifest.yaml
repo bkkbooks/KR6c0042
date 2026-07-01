@@ -1,0 +1,120 @@
+canonical_identifier: bkk:krp/KR6c0042/T/v1
+canonical_location: https://kanripo.org/bkk/KR6c0042/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛經纂要刊定記
+  identifiers:
+    krp: KR6c0042
+    cbeta: T33n1702
+    cbeta_old_id: T33n1702
+    authorityid: CA0001724
+    json_key: T1702
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T33/T33n1702.xml
+    old_id: T33n1702
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0042_000-T.yaml, hash: 'sha256:4562b1263283ed27e1a3d750408e27c573b7ad5d7742ff6cbf190a3e781b2ba7'}
+  - {seq: 1, filename: KR6c0042_001-T.yaml, hash: 'sha256:5e0bf45b6953a01dac0f4e5e64210be589eb982df2e6f059153e8ebc6e4d19be'}
+  - {seq: 2, filename: KR6c0042_002-T.yaml, hash: 'sha256:49201af8b9c059a12ac02f0458ef2294890dda8b4d5b6f8480813f363cc30f62'}
+  - {seq: 3, filename: KR6c0042_003-T.yaml, hash: 'sha256:093489a2a948d19b8df58de6ed2892f28a08579b4de2057671825d178a415863'}
+  - {seq: 4, filename: KR6c0042_004-T.yaml, hash: 'sha256:40450fa5ca254a199019df4d6540c6c03e1dd6b3000890e5db6a55e6828d3e32'}
+  - {seq: 5, filename: KR6c0042_005-T.yaml, hash: 'sha256:2d1e96d5e0ea1a47ece9a3623bba77dca8dadcd6ac44955a17303bc57a7cb941'}
+  - {seq: 6, filename: KR6c0042_006-T.yaml, hash: 'sha256:d75ce6f2fc279d8ba95b502b275e0f92318f5e00b8ad7cf0bad46344b05e9f01'}
+  - {seq: 7, filename: KR6c0042_007-T.yaml, hash: 'sha256:c2c181ffd34f7ec35fe711283a25e58529d8338bfac867e4a2eca6013305424b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0042_000-T.markers.yaml, hash: 'sha256:05942305bdb8c65e161b278f6e5345c0532d5f1c60045e88d92bd6b707b5bb78'}
+  - {seq: 1, role: markers, filename: assets/KR6c0042_001-T.markers.yaml, hash: 'sha256:b109fc9a3bb6f92aae89859448f88bc9b24fd77a21d81fdf9205c83251d1487a'}
+  - {seq: 2, role: markers, filename: assets/KR6c0042_002-T.markers.yaml, hash: 'sha256:70460cc504321c71a5813b507fd52fe9227643026775922b418fe60426efbd0e'}
+  - {seq: 3, role: markers, filename: assets/KR6c0042_003-T.markers.yaml, hash: 'sha256:0ef0ec5c6153589a5a4da5b2d638bbbb8aea0540c6709b692650c51e88e27c08'}
+  - {seq: 4, role: markers, filename: assets/KR6c0042_004-T.markers.yaml, hash: 'sha256:67a30c8f625aa16618e41550b34fb53e99bd4b8bc23954b4373f5d5520c4285f'}
+  - {seq: 5, role: markers, filename: assets/KR6c0042_005-T.markers.yaml, hash: 'sha256:86e1584c88fb45523861888601ce2883ea97079ec1ed63fc4615f10899f167ea'}
+  - {seq: 6, role: markers, filename: assets/KR6c0042_006-T.markers.yaml, hash: 'sha256:533256516a2f7c0c4d3084d0394d567dd9c187f6492550cc8447d91a8d7842cb'}
+  - {seq: 7, role: markers, filename: assets/KR6c0042_007-T.markers.yaml, hash: 'sha256:2b7b16eeb46170e623894c0dcda94d2aee053fafeed3fecd6be320a6c8c41892'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6c0042_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 金剛經纂要刊定記并序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0042_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 13510
+  label: 金剛經纂要刊定記卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6c0042_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 14489
+  label: 金剛經纂要刊定記卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0042_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 13241
+  label: 金剛經纂要刊定記卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0042_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 14483
+  label: 金剛經纂要刊定記卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6c0042_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 14849
+  label: 金剛經纂要刊定記卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6c0042_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 6418
+  label: 金剛經纂要刊定記卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6c0042_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 7863
+  label: 金剛經纂要刊定記卷第七
+  type: juan
+  level: 1
+hash: sha256:4e7e296526dcc83a464c686fabcd20fb2021fb526bd3e20e017b02fdb2f6051e

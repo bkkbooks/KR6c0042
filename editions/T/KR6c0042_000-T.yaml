@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6c0042/t/v1/juan/0
+seq: 0
+front:
+  text: 金剛經纂要刊定記并序釋氏教金剛經世所由來尚矣自秦至今凡幾百載諷誦無卑高感應盈簡牘利及幽壞而達乎神明蓋趣大之坦塗破小之宏略也故補處頌以為本二論釋而有貫諸疏互解或依或違圭山大師撮掇精英黜逐浮偽命曰纂要蓋取中庸復申記略用備傳習石壁師仍貫義意別為廣錄美則美矣辭或繁長後學多不便用今更刊定翦削煩亂俾流而無滯學而思講庶吾道無墜地之患也已大宋天聖紀號之明年季冬月甲子日序云
+  hash: sha256:60e13ae4c8af560acad5fd5d48457b006e96df1767fecc4466d390e887f52d47
+  markers:
+  - {type: 序, offset: 0, content: 金剛經纂要刊定記并序, id: KR6c0042_T_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛經纂要刊定記
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T33/T33n1702.xml
+    old_id: T33n1702
+hash: sha256:4562b1263283ed27e1a3d750408e27c573b7ad5d7742ff6cbf190a3e781b2ba7
