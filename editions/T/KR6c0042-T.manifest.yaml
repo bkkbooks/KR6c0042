@@ -19,7 +19,7 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6c0042_000-T.yaml, hash: 'sha256:4562b1263283ed27e1a3d750408e27c573b7ad5d7742ff6cbf190a3e781b2ba7'}
+  - {seq: 0, filename: KR6c0042_000-T.yaml, hash: 'sha256:af897132a8a9b180f14b409842090e38f4ddd953a81a821b544ee241e2760d53'}
   - {seq: 1, filename: KR6c0042_001-T.yaml, hash: 'sha256:5e0bf45b6953a01dac0f4e5e64210be589eb982df2e6f059153e8ebc6e4d19be'}
   - {seq: 2, filename: KR6c0042_002-T.yaml, hash: 'sha256:49201af8b9c059a12ac02f0458ef2294890dda8b4d5b6f8480813f363cc30f62'}
   - {seq: 3, filename: KR6c0042_003-T.yaml, hash: 'sha256:093489a2a948d19b8df58de6ed2892f28a08579b4de2057671825d178a415863'}
@@ -28,7 +28,7 @@ assets:
   - {seq: 6, filename: KR6c0042_006-T.yaml, hash: 'sha256:d75ce6f2fc279d8ba95b502b275e0f92318f5e00b8ad7cf0bad46344b05e9f01'}
   - {seq: 7, filename: KR6c0042_007-T.yaml, hash: 'sha256:c2c181ffd34f7ec35fe711283a25e58529d8338bfac867e4a2eca6013305424b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0042_000-T.markers.yaml, hash: 'sha256:05942305bdb8c65e161b278f6e5345c0532d5f1c60045e88d92bd6b707b5bb78'}
+  - {seq: 0, role: markers, filename: assets/KR6c0042_000-T.markers.yaml, hash: 'sha256:767f14b9b638f075c22bb469d9961c7ce6477428859151ceee6864f71800cb6b'}
   - {seq: 1, role: markers, filename: assets/KR6c0042_001-T.markers.yaml, hash: 'sha256:b109fc9a3bb6f92aae89859448f88bc9b24fd77a21d81fdf9205c83251d1487a'}
   - {seq: 2, role: markers, filename: assets/KR6c0042_002-T.markers.yaml, hash: 'sha256:70460cc504321c71a5813b507fd52fe9227643026775922b418fe60426efbd0e'}
   - {seq: 3, role: markers, filename: assets/KR6c0042_003-T.markers.yaml, hash: 'sha256:0ef0ec5c6153589a5a4da5b2d638bbbb8aea0540c6709b692650c51e88e27c08'}
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0042_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 金剛經纂要刊定記并序
@@ -117,4 +117,4 @@ table_of_contents:
   label: 金剛經纂要刊定記卷第七
   type: juan
   level: 1
-hash: sha256:4e7e296526dcc83a464c686fabcd20fb2021fb526bd3e20e017b02fdb2f6051e
+hash: sha256:e4470831ac277eb80fa2fe269ccc2d2fa92fa845c2c8061d4c97680fead2bd54
